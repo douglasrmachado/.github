@@ -18,7 +18,7 @@
 
 ## About Us
 
-**MAGOSCORP** é uma empresa de tecnologia dedicada ao desenvolvimento de soluções digitais inteligentes.  
+**FORMIND** é uma empresa de tecnologia dedicada ao desenvolvimento de soluções digitais inteligentes.  
 Nosso principal produto é o **GYM IA**, um sistema que combina **inteligência artificial** e **análise de dados** para otimizar a experiência em academias, melhorando a performance e gestão de treinos.
 
 <br/>
@@ -71,5 +71,5 @@ Principais funcionalidades:
 
 ## Contact
 
-📧 contato@magoscorp.com  
-🌐 [www.magoscorp.com](https://magoscorp.com)  
+📧 developers@formind.tech
+🌐 [formind.tech]([https://formind.tech/])  
